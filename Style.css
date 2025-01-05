@@ -1,0 +1,27 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 80px;
+    text-align: center;
+    margin: 10px;
+}
+body{
+    color: white;
+    font-size: 150px;
+    text-align: center;
+    font-family: cursive;
+    
+}
+p{
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    margin: 110px;
+    font-family: fantasy;
+    margin-bottom: 50px;
+}
+b{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    font-family: cursive;
+}
